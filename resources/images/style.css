@@ -1,0 +1,44 @@
+body{
+    
+    font-family: sans-serif;
+}
+
+
+h1
+{
+    color:rgba(125, 40, 224, 0.57);
+    font-family: cursive;
+    font-size: 60px;
+}
+
+h2{
+    color: rgba(22, 224, 22, 0.54);
+    font-family: fantasy;
+    font-size: 40px;
+    
+    
+}
+p {
+    font-family: monospace;
+    text-align: center;
+    font-size: 19px;
+}
+.main-text{
+    
+    text-align: center;
+    color: darkorange;
+    background-color: darkturquoise;
+}
+div {
+    .container
+}
+
+.container {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.authorphoto {
+    border-radius:50%;
+}
